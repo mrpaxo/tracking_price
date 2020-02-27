@@ -1,0 +1,7 @@
+.idea/
+*.py[co]
+__pycache__
+media/*
+secret.json
+*.DS_Store
+.vscode/
